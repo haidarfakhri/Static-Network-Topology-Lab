@@ -1,2 +1,12 @@
-# Static-Network-Topology-Lab
-Comparative analysis of Direct vs. Multi-hop static routing configurations.
+# Static Routing Topology Analysis
+
+## Overview
+This project compares two static network topologies: Direct Interconnection vs. Intermediate Router Segmentation.
+
+## Files Included
+- `Network_Analysis_Report.md`: Detailed technical analysis.
+- `Project_Topology.pkt`: Cisco Packet Tracer configuration file.
+- `topology_screenshot.png`: Visual representation of the setup.
+
+## Prerequisites
+- Cisco Packet Tracer Version 8.0+

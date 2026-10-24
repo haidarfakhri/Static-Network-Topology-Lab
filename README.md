@@ -9,4 +9,4 @@ This project compares two static network topologies: Direct Interconnection vs. 
 - `topology_screenshot.png`: Visual representation of the setup.
 
 ## Prerequisites
-- Cisco Packet Tracer Version 8.0+
+- Cisco Packet Tracer Version 9.0.1.0858

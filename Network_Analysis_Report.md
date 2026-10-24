@@ -27,14 +27,14 @@ In this scenario, Router 1 and Router 2 are directly linked via a serial or cros
 | **Host A1** | End User | NIC | 192.168.1.2/24 | 192.168.1.1 |
 | **Host A2** | End User | NIC | 192.168.1.3/24 | 192.168.1.1 |
 | **Host A3** | End User | NIC | 192.168.1.4/24 | 192.168.1.1 |
-| **Switch 1** | L2 Access | N/A | Management: 192.168.1.254 (Suggested) | N/A |
+| **Switch 1** | L2 Access | N/A | N/A | N/A |
 | **Router 1** | Edge GW | G0/0 (LAN) | 192.168.1.1/24 | N/A |
 | **Router 1** | Edge GW | G0/1 (WAN) | **192.168.3.1/24** | N/A |
 | **Router 2** | Edge GW | G0/0 (LAN) | 192.168.2.1/24 | N/A |
 | **Router 2** | Edge GW | G0/1 (WAN) | **192.168.3.2/24** | N/A |
 | **Host B1** | End User | NIC | 192.168.2.2/24 | 192.168.2.1 |
 | **Host B2** | End User | NIC | 192.168.2.3/24 | 192.168.2.1 |
-| **Switch 2** | L2 Access | N/A | Management: 192.168.2.254 (Suggested) | N/A |
+| **Switch 2** | L2 Access | N/A | N/A | N/A |
 
 ### 2.2. Connectivity & Routing Logic
 

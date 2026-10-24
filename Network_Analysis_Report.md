@@ -1,6 +1,6 @@
 # Network Topology Analysis Report
 
-**Date:** October 26, 2026
+**Date:** October 26, 2026;
 **Subject:** Comparative Analysis of Direct vs. Intermediate Router Static Topologies
 
 ---
